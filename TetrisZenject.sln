@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisZenject.Plugins", "TetrisZenject.Plugins.csproj", "{EB08382C-427C-E575-7C99-E91AB25EB0A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisZenject", "TetrisZenject.csproj", "{62415524-A801-7294-8751-B5C1D78F7D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisZenject.Editor.Plugins", "TetrisZenject.Editor.Plugins.csproj", "{15E63A05-0DD4-C88A-98A9-AC10B14E05E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB08382C-427C-E575-7C99-E91AB25EB0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB08382C-427C-E575-7C99-E91AB25EB0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB08382C-427C-E575-7C99-E91AB25EB0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB08382C-427C-E575-7C99-E91AB25EB0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62415524-A801-7294-8751-B5C1D78F7D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62415524-A801-7294-8751-B5C1D78F7D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62415524-A801-7294-8751-B5C1D78F7D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62415524-A801-7294-8751-B5C1D78F7D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E63A05-0DD4-C88A-98A9-AC10B14E05E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E63A05-0DD4-C88A-98A9-AC10B14E05E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E63A05-0DD4-C88A-98A9-AC10B14E05E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E63A05-0DD4-C88A-98A9-AC10B14E05E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
